@@ -3,17 +3,16 @@
     background-color: rgb(252, 108, 132);
 }
 
-.p-class.cool-class {
+.cool-class {
     font-size: 24px;
 }
 
 #div-id {
     font-size: 36px;
-    color: blue;
+    color: #0000ff;
 }
 
 #div-id-another {
     background-color: rgb(100, 245, 100);
-    font-size: 24px;
     font-weight: bold;
 }
