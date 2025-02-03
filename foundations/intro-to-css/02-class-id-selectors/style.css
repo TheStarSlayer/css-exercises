@@ -7,3 +7,7 @@
     color: blue;
     font-size: 36px;
 }
+
+.odd-elems.bigger {
+    font-size: 24px;
+}
